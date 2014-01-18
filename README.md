@@ -1,4 +1,5 @@
 === Editor Can Edit Menus ===
+
 Tags: editor, capabilities, capability, menus, menu
 Requires at least: 3.3.2
 Tested up to: 3.5.2
